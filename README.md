@@ -13,8 +13,7 @@ This is a simple web authentication system featuring user login and signup. user
 
 1. **Clone the repository**
    `git clone https://github.com/iameas/developer.git`
-   
-`cd developer`
+   `cd developer`
 
 3. **Setup XAMPP**
 
