@@ -1,0 +1,51 @@
+.navbar-nav .nav-link {
+  color: #333;
+  font-size: 14px;
+  padding: 0px;
+  margin-right: 10px;
+}
+
+.navbar-nav {
+  height: 24px;
+}
+
+.navbar-toggler {
+  color: #333;
+}
+
+.hero-container, 
+.next-container{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+}
+
+.next-container{
+    background-color: #6c6aec;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: transparent; 
+    backdrop-filter: blur(100px); 
+  }
+  
+  .sticky nav {
+    background-color: transparent; 
+  }
+  
+  main {
+    padding-top: 0px; 
+  }
+  
