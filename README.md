@@ -5,7 +5,7 @@ This is a simple web authentication system featuring user login and signup. user
 ## Features
 
 - User login and signup
-- Emai; verification via a code before account activation
+- Email verification via a code before account activation
 - Profile picture upload during signup
 - Role-Based Access Control (RBAC) for user roles (Admin, Customer, Developer, etc.)
 
@@ -13,9 +13,10 @@ This is a simple web authentication system featuring user login and signup. user
 
 1. **Clone the repository**
    `git clone https://github.com/iameas/developer.git`
-   `cd developer`
+   
+`cd developer`
 
-2. **Setup XAMPP**
+3. **Setup XAMPP**
 
 - Start **Apache** and **MySQL** in XAMPP
 - Open **phpmyadmin** (`http://localhost/phpmyadmin/`)
